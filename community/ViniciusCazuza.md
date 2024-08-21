@@ -37,7 +37,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniciusCazuza&theme=transparent&bg_color=000&border_color=000&show_icons=true&icon_color=5C2D91&title_color=5C2D91&text_color=FFF)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ViniciusCazuza&theme=midnight-purple&hide_border=true&border_radius=)]
+![GitHub Streak](https://streak-stats.demolab.com?user=ViniciusCazuza&theme=midnight-purple&hide_border=true&border_radius=)
 
 ## Se conecte comigo: <sub> Connect with me:</sub>
 
